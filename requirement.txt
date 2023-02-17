@@ -1,0 +1,6 @@
+torch==1.7.0
+scipy==1.4.1
+networkx==2.5
+dgl==0.6.1
+scikit_learn==0.24.2
+deeprobust==0.2.4
